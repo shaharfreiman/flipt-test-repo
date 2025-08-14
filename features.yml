@@ -5,3 +5,7 @@ flags:
   name: Use Quicksort Algorithm
   type: BOOLEAN_FLAG_TYPE
   enabled: false
+- key: some-key
+  name: Some Key
+  type: BOOLEAN_FLAG_TYPE
+  enabled: true
